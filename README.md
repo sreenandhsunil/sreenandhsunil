@@ -36,7 +36,7 @@ Developed a digital health assistant with chatbot support, disease prediction, a
 ## 📬 Let's Connect
 
 - 📧 [Email Me](mailto:sreenandhsunilrover@gmail.com)  
-- 💼 [LinkedIn](www.linkedin.com/in/sreenandh-sunil-6a3b4b24b) *(update this)*  
+- 💼 [LinkedIn](www.linkedin.com/in/sreenandh-sunil-6a3b4b24b) 
 
 ---
 
