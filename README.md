@@ -20,10 +20,23 @@ Developed a digital health assistant with chatbot support, disease prediction, a
 ---
 
 ## 🧰 Tech Stack
-**Languages:** Python, JavaScript, C  
-**Web:** HTML, CSS, React, Node.js, Firebase  
-**AI/ML:** PyTorch, YOLOv8, FastAPI  
-**Tools:** Git, GitHub, Google Cloud, Postman  
+Programming Languages:
+Python, JavaScript, C
+
+Web Development:
+HTML, CSS, React, Node.js, Express.js, REST APIs
+
+Databases & Storage:
+Firebase (Firestore, Realtime DB), SQL, NoSQL
+
+Machine Learning & AI:
+PyTorch, YOLOv8, Scikit-learn, FastAPI, Computer Vision, NLP
+
+DevOps & Tools:
+Git, GitHub, Postman, Firebase Authentication, Firebase Cloud Messaging, Google Maps API
+
+Platforms & Deployment:
+Google Cloud, Vercel
 
 ---
 
